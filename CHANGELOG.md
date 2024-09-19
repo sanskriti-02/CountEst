@@ -57,4 +57,4 @@ Released on March 11, 2024.
  	* License
  	* README
  	* Requirements.txt
- 	* Initial implementation of classifiers module containing CategoricalCBC classifier
+ 	* Initial implementation of classifiers module containing `CategoricalCBC` classifier
